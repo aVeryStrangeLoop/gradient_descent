@@ -15,7 +15,7 @@ import gradient_descent
 
 outputfile = open(<outputfilename>,"w+")
 
-**GradDescent(Init,Mutator,H,outputfile,Printer)**
+GradDescent(Init,Mutator,H,outputfile,Printer)
 
 outputfile.close()
 ```
